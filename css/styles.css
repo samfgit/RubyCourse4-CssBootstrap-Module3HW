@@ -1,0 +1,10 @@
+.navbar-nav li:hover {
+	background-color: #ccefa5;
+}
+
+/* Media Rules */
+@media(max-width:767px){
+	#navbar-collapse {
+		background-color: #bbe28d;
+	}
+}
